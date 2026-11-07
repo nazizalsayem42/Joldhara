@@ -1,0 +1,71 @@
+{
+  "meta": {
+    "title": "Joldhara Properties Limited",
+    "description": "Premier real estate development in Bangladesh with a commitment to excellence, sustainability, and innovative design solutions.",
+    "favicon": "/favicon.ico"
+  },
+  "company": {
+    "name": "Joldhara Properties Ltd.",
+    "tagline": "Building Tomorrow's Landmarks",
+    "aboutShort": "Building dreams, creating landmarks. Excellence in real estate since 1998.",
+    "phone": "+8801819638013",
+    "email": "joldharapropertiesltd@gmail.com",
+    "whatsapp": "+8801819638013",
+    "dhakaOffice": "House-08, Road-04, Banani DOHS, Dhaka",
+    "chittagongOffice": "805/D Goni Complex, CDA Avenue, Chittagong",
+    "directionsUrl": "https://maps.google.com/?q=House-08,+Road-04,+Banani+DOHS"
+  },
+  "hero": {
+    "headline": "Building Tomorrow's Landmarks",
+    "subheadline": "Premier real estate development with a commitment to excellence, sustainability, and innovative design solutions",
+    "primaryCta": {
+      "text": "Explore Projects",
+      "href": "#projects"
+    },
+    "secondaryCta": {
+      "text": "Get In Touch",
+      "href": "#contact"
+    },
+    "slides": [
+      {
+        "src": "/hero1.jpg",
+        "alt": "Hero 1 - Luxury residence"
+      },
+      {
+        "src": "/hero2.jpg",
+        "alt": "Hero 2 - Modern building"
+      },
+      {
+        "src": "/hero3.jpg",
+        "alt": "Hero 3 - Smart home exterior"
+      },
+      {
+        "src": "/hero4.jpg",
+        "alt": "Hero 4 - Waterfront property"
+      },
+      {
+        "src": "/hero5.jpg",
+        "alt": "Hero 5 - Sunset skyline"
+      }
+    ]
+  },
+  "stats": [],
+  "projects": [
+    {
+      "id": "alhamdulillah",
+      "title": "ALHAMDULILLAH",
+      "description": "A premium residential project at Plot 32, Road 413, Sector 7, Jolshiri Abashon, offering spacious 2,850 SFT apartments designed for refined, comfortable, and modern family living.",
+      "src": "/alhamdulillah.jpg",
+      "location": "Plot 32, Road 413, Sector 7, Jolshiri Abashon",
+      "category": "Residential",
+      "size": "2,850 SFT",
+      "status": "Ongoing"
+    }
+  ],
+  "socialLinks": {
+    "facebook": "#",
+    "twitter": "#",
+    "linkedin": "#",
+    "whatsapp": "https://wa.me/+8801819638013"
+  }
+}
